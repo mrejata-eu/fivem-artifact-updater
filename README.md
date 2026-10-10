@@ -120,7 +120,8 @@ The script prints the backup directory after a successful replacement. If the ne
 
 ## License
 
-No license is included by default. Add a `LICENSE` file before advertising specific reuse or redistribution permissions.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
